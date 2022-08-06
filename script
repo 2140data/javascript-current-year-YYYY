@@ -1,0 +1,2 @@
+<!-- Remove the paragraph tags or the text as needed. Only use the script <script type="text/javascript">var x = new Date();document.write(x.getFullYear());</script> if you only want to show the year. -->
+<p>&copy; <script type="text/javascript">var x = new Date();document.write(x.getFullYear());</script>. All rights reserved.</p>
