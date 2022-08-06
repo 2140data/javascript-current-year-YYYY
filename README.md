@@ -8,11 +8,11 @@ A simple line of Javascript &amp; HTML that you can copy-and-paste into your HTM
 <ol>
 <li>Open the 'script.html' file</li>
 <li>To display a Copyright year: Copy-and-paste the entire line into your HTML.<br/>Sample output (in italics): <em>&copy; YYYY. All rights reserved.</em></li>
-<li>To display just the year: Copy-and-paste the entire SCRIPT into your footer.<br/>Sample output (in italics): <em>YYYY</em></li>
+<li>To display just the year: Copy-and-paste the entire SCRIPT into your HTML.<br/>Sample output (in italics): <em>YYYY</em></li>
 </ol>
 
 <b>OR - Use only the Javascript with NO HTML</b>
 <ol>
 <li>Open the 'javascript-no-html.js' file</li>
-<li>To display just the year: Copy-and-paste the entire SCRIPT into your footer.<br/>Sample output (in italics): <em>YYYY</em></li>
+<li>To display just the year: Copy-and-paste the entire SCRIPT into your HTML.<br/>Sample output (in italics): <em>YYYY</em></li>
 </ol>
